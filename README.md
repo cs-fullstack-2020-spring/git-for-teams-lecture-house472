@@ -2,7 +2,7 @@
 
 ### Branching
 * Create a new branch called `edit-read-me`
-* I"m RICK JAMES BIHHHH!
+* CHARLIE MURPHY!!!!!!!!DARKNESS!!!!!!!
 * Add a message to the end of your `README.md` file
 * Push the local changes to your branch
 
